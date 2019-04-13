@@ -1,0 +1,9 @@
+C:\Users\kynk9\Csharp\HelloCsharpWin\HelloCsharpWin\bin\Debug\HelloCsharpWin.exe.config
+C:\Users\kynk9\Csharp\HelloCsharpWin\HelloCsharpWin\bin\Debug\HelloCsharpWin.exe
+C:\Users\kynk9\Csharp\HelloCsharpWin\HelloCsharpWin\bin\Debug\HelloCsharpWin.pdb
+C:\Users\kynk9\Csharp\HelloCsharpWin\HelloCsharpWin\obj\Debug\HelloCsharpWin.Calculator.resources
+C:\Users\kynk9\Csharp\HelloCsharpWin\HelloCsharpWin\obj\Debug\HelloCsharpWin.Properties.Resources.resources
+C:\Users\kynk9\Csharp\HelloCsharpWin\HelloCsharpWin\obj\Debug\CsharpCalculatorWin.csproj.GenerateResource.Cache
+C:\Users\kynk9\Csharp\HelloCsharpWin\HelloCsharpWin\obj\Debug\CsharpCalculatorWin.csproj.CoreCompileInputs.cache
+C:\Users\kynk9\Csharp\HelloCsharpWin\HelloCsharpWin\obj\Debug\HelloCsharpWin.exe
+C:\Users\kynk9\Csharp\HelloCsharpWin\HelloCsharpWin\obj\Debug\HelloCsharpWin.pdb
